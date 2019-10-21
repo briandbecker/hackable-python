@@ -11,5 +11,5 @@ Just `cd` into the hackable folder and type into the termnial `python main.py`
 * The add items page is vulnerable to XSS
 * The login page is also vulnerable to SQL injection making it easy to bypass login
 
-# Forked Of
+# Forked From
 https://github.com/JasonHinds13/hackable
