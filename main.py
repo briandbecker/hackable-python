@@ -1,4 +1,6 @@
-import sqlite3, os, hashlib
+import sqlite3
+import os
+import hashlib
 from flask import Flask, jsonify, render_template, request, g
 
 app = Flask(__name__)
